@@ -1,0 +1,6 @@
+name:vamsi
+age:21
+college:RMD
+roll.no:10
+stream:CSBS
+branch:BTECH
