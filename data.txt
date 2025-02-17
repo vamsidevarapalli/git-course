@@ -1,0 +1,5 @@
+name:vamsi
+age:21
+location:AP
+Country:India
+passwword:reddy06
