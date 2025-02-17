@@ -3,3 +3,6 @@ add three number
 give the inputs fron user 
 and perform the operation of add
 then display the output to the user
+
+add an features of profile
+upload the profile
